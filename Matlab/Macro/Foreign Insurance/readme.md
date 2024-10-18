@@ -1,1 +1,1 @@
-This is a coursework that plot the payment system of insurance contract under different level of sanction
+This is a coursework that simulates and plots the payment system of foreign insurance contract under different levels of sanction
