@@ -1,1 +1,1 @@
-Here are some Stata codes mainly for running regressions.
+Here are some STATA codes mainly from my econometrics class.
