@@ -44,6 +44,7 @@ Although this was my first experience working with large-scale SQL databases and
 ## Additional Coding Samples
 
 Beyond these key projects, the repository also contains additional code samples from coursework, including:
+- **Python**: BLP walkthrough.
 - **Stata**: Econometric regressions.
 - **MATLAB**: Simulation and machine learning tasks.
 - **R**: Lasso regression and model selection.
