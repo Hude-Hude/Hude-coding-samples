@@ -47,7 +47,7 @@ Beyond these key projects, the repository also contains additional code samples 
 - **Python**: BLP walkthrough.
 - **Stata**: Econometric regressions.
 - **MATLAB**: Simulation and machine learning tasks.
-- **R**: Lasso regression and model selection.
+- **R**: Lasso regression and model selection, network formation using graph.
 
 These samples showcase my experience across various programming environments and my ability to solve complex problems with different tools.
 
