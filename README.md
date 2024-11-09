@@ -13,7 +13,7 @@ This isn't to say that I don't know how to code—in fact, it demonstrates my ab
 
 This repository showcases my coding projects, including work from my time as a research assistant, independent research, and coursework. Below are four key projects that demonstrate my programming skills and ability to learn new tools. Additionally, I’ve included coding samples from coursework using **Stata**, **MATLAB**, and **R**.
 
-### 1. **RA Coding Test (Stata)**
+### 1. **Econometrics Coding Test (Stata)**
 
 As part of my RA application, I completed a coding test in Stata to analyze hospital technology adoption under Medicare policy changes. Key tasks included:
 - Data cleaning and merging hospital records.
