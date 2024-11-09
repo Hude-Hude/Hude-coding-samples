@@ -11,17 +11,17 @@ This isn't to say that I don't know how to code—in fact, it demonstrates my ab
 
 ## Repository Overview
 
-This repository showcases my coding projects, including work from my time as a research assistant, independent research, and coursework. Below are three key projects that demonstrate my programming skills and ability to learn new tools. Additionally, I’ve included coding samples from coursework using **Stata**, **MATLAB**, and **R**.
+This repository showcases my coding projects, including work from my time as a research assistant, independent research, and coursework. Below are four key projects that demonstrate my programming skills and ability to learn new tools. Additionally, I’ve included coding samples from coursework using **Stata**, **MATLAB**, and **R**.
 
-### 1. **Amazon Biome Coding Test (Python)**
+### 1. **RA Coding Test (Stata)**
 
-This project was part of a coding test where I analyzed satellite imagery to track deforestation in the Amazon biome. I had no prior experience with satellite data or Python libraries like `rasterio`, but within three days, I managed to complete around 80% of the task. The main objectives were:
-- Subsetting satellite data for the Amazon biome.
-- Classifying forest and non-forest areas.
-- Calculating deforestation rates.
-- Visualizing forest cover changes over time.
+As part of my RA application, I completed a coding test in Stata to analyze hospital technology adoption under Medicare policy changes. Key tasks included:
+- Data cleaning and merging hospital records.
+- Calculating a custom index (the Saidin Index) to capture technology adoption.
+- Running regressions with fixed effects and clustering, and generating visualizations.
+- Summarizing the results in LaTeX for a professional presentation.
 
-This project highlights my ability to learn new libraries and adapt to different computational environments.
+This project highlights my ability to work under time constraints (completed in under 4 hours) and adapt to complex Stata programming tasks.
 
 ### 2. **Monte Carlo Simulation in R**
 
@@ -32,7 +32,17 @@ In this project, I simulated a labor market with 1,000 firms and tracked workers
 
 This project demonstrates my capacity to learn new programming languages and apply advanced computational techniques.
 
-### 3. **SQL Code for Thesis Research: Network Effects in the PC Video Game Market**
+### 3. **Amazon Biome Coding Test (Python)**
+
+This project was part of a coding test where I analyzed satellite imagery to track deforestation in the Amazon biome. I had no prior experience with satellite data or Python libraries like `rasterio`, but within three days, I managed to complete around 80% of the task. The main objectives were:
+- Subsetting satellite data for the Amazon biome.
+- Classifying forest and non-forest areas.
+- Calculating deforestation rates.
+- Visualizing forest cover changes over time.
+
+This project highlights my ability to learn new libraries and adapt to different computational environments.
+
+### 4. **SQL Code for Thesis Research: Network Effects in the PC Video Game Market**
 
 For my thesis on network effects in the PC video game market, I wrote SQL queries for data collection, sampling, and cleaning. The dataset includes over 100 million Steam user accounts and is approximately 300GB in size. I used Google Cloud SQL to:
 - Randomly sample 10,000 users and their direct and second-degree friends.
